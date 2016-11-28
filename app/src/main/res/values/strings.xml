@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">New Music</string>
+
+    <!-- Category name for new releases [CHAR LIMIT=20] -->
+    <string name="category_newReleases">New Releases</string>
+
+    <!-- Category name for Search function [CHAR LIMIT=20] -->
+    <string name="category_search">Search</string>
+
+    <!-- Category name for recently played music [CHAR LIMIT=20] -->
+    <string name="category_recentlyPlayed">Recently Played</string>
+
+    <!-- Category name for what is currently playing [CHAR LIMIT=20] -->
+    <string name="category_nowPlaying">Now Playing</string>
+</resources>
